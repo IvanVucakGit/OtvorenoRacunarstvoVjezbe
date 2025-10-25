@@ -7,7 +7,7 @@ Ovaj repozitorij sadrži skup podataka o županijama Republike Hrvatske. Za svak
 
 **Jezik:** Hrvatski
 
-**Atributa skupa podataka:**  
+**Atributi skupa podataka:**  
 - `ime_zupanije`: ime županije
 - `sjediste`: grad koji je sjedište županije
 - `zupan`: osoba koja je župan županije
