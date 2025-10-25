@@ -1,0 +1,661 @@
+{
+    "Županije": [
+        {
+            "Župan": "Marko Marušić",
+            "Gradovi": [
+                {
+                    "Ime grada": "Bjelovar"
+                },
+                {
+                    "Ime grada": "Čazma"
+                },
+                {
+                    "Ime grada": "Daruvar"
+                },
+                {
+                    "Ime grada": "Garešnica"
+                },
+                {
+                    "Ime grada": "Grubišno Polje"
+                }
+            ],
+            "Sjedište": "Bjelovar",
+            "Stanovnici": 101879,
+            "Broj naselja": 323,
+            "Broj općina": 18,
+            "Pozivni broj": "043",
+            "Dan županije": "8. lipnja",
+            "Ime županije": "Bjelovarsko-bilogorska županija",
+            "Površina u km2": 2640
+        },
+        {
+            "Župan": "Danijel Marušić",
+            "Gradovi": [
+                {
+                    "Ime grada": "Nova Gradiška"
+                },
+                {
+                    "Ime grada": "Slavonski Brod"
+                }
+            ],
+            "Sjedište": "Slavonski Brod",
+            "Stanovnici": 130267,
+            "Broj naselja": 185,
+            "Broj općina": 26,
+            "Pozivni broj": "035",
+            "Dan županije": "15. travnja",
+            "Ime županije": "Brodsko-posavska županija",
+            "Površina u km2": 2043
+        },
+        {
+            "Župan": "Blaž Pezo",
+            "Gradovi": [
+                {
+                    "Ime grada": "Dubrovnik"
+                },
+                {
+                    "Ime grada": "Korčula"
+                },
+                {
+                    "Ime grada": "Metković"
+                },
+                {
+                    "Ime grada": "Opuzen"
+                },
+                {
+                    "Ime grada": "Ploče"
+                }
+            ],
+            "Sjedište": "Dubrovnik",
+            "Stanovnici": 115564,
+            "Broj naselja": 230,
+            "Broj općina": 17,
+            "Pozivni broj": "020",
+            "Dan županije": "12. svibnja",
+            "Ime županije": "Dubrovačko-neretvanska županija",
+            "Površina u km2": 1781
+        },
+        {
+            "Župan": "Tomislav Tomašević(gradonačelnik)",
+            "Gradovi": [
+                {
+                    "Ime grada": "Zagreb"
+                }
+            ],
+            "Sjedište": "Zagreb",
+            "Stanovnici": 767131,
+            "Broj naselja": 0,
+            "Broj općina": 0,
+            "Pozivni broj": "01 ",
+            "Dan županije": "31. svibnja",
+            "Ime županije": "Grad Zagreb",
+            "Površina u km2": 641
+        },
+        {
+            "Župan": "Boris Miletić",
+            "Gradovi": [
+                {
+                    "Ime grada": "Buje"
+                },
+                {
+                    "Ime grada": "Buzet"
+                },
+                {
+                    "Ime grada": "Labin"
+                },
+                {
+                    "Ime grada": "Novigrad"
+                },
+                {
+                    "Ime grada": "Pazin"
+                },
+                {
+                    "Ime grada": "Poreč"
+                },
+                {
+                    "Ime grada": "Pula"
+                },
+                {
+                    "Ime grada": "Rovinj"
+                },
+                {
+                    "Ime grada": "Umag"
+                },
+                {
+                    "Ime grada": "Vodnjan"
+                }
+            ],
+            "Sjedište": "Pazin",
+            "Stanovnici": 195237,
+            "Broj naselja": 655,
+            "Broj općina": 31,
+            "Pozivni broj": "052",
+            "Dan županije": "25. rujna",
+            "Ime županije": "Istarska županija",
+            "Površina u km2": 2813
+        },
+        {
+            "Župan": "Martina Furdek-Hajdin",
+            "Gradovi": [
+                {
+                    "Ime grada": "Duga Resa"
+                },
+                {
+                    "Ime grada": "Karlovac"
+                },
+                {
+                    "Ime grada": "Ogulin"
+                },
+                {
+                    "Ime grada": "Slunj"
+                },
+                {
+                    "Ime grada": "Ozalj"
+                }
+            ],
+            "Sjedište": "Karlovac",
+            "Stanovnici": 112195,
+            "Broj naselja": 649,
+            "Broj općina": 17,
+            "Pozivni broj": "047",
+            "Dan županije": "25. travnja",
+            "Ime županije": "Karlovačka županija",
+            "Površina u km2": 3622
+        },
+        {
+            "Župan": "Tomislav Golubić",
+            "Gradovi": [
+                {
+                    "Ime grada": "Đurđevac"
+                },
+                {
+                    "Ime grada": "Koprivnica"
+                },
+                {
+                    "Ime grada": "Križevci"
+                }
+            ],
+            "Sjedište": "Koprivnica",
+            "Stanovnici": 101221,
+            "Broj naselja": 264,
+            "Broj općina": 22,
+            "Pozivni broj": "048",
+            "Dan županije": "13. travnja",
+            "Ime županije": "Koprivničko-križevačka županija",
+            "Površina u km2": 1748
+        },
+        {
+            "Župan": "Željko Kolar",
+            "Gradovi": [
+                {
+                    "Ime grada": "Donja Stubica"
+                },
+                {
+                    "Ime grada": "Klanjec"
+                },
+                {
+                    "Ime grada": "Krapina"
+                },
+                {
+                    "Ime grada": "Oroslavje"
+                },
+                {
+                    "Ime grada": "Pregrada"
+                },
+                {
+                    "Ime grada": "Zabok"
+                },
+                {
+                    "Ime grada": "Zlatar"
+                }
+            ],
+            "Sjedište": "Krapina",
+            "Stanovnici": 120702,
+            "Broj naselja": 423,
+            "Broj općina": 25,
+            "Pozivni broj": "049",
+            "Dan županije": "23. travnja",
+            "Ime županije": "Krapinsko-zagorska županija",
+            "Površina u km2": 1229
+        },
+        {
+            "Župan": "Ernest Petry",
+            "Gradovi": [
+                {
+                    "Ime grada": "Gospić"
+                },
+                {
+                    "Ime grada": "Novalja"
+                },
+                {
+                    "Ime grada": "Otočac"
+                },
+                {
+                    "Ime grada": "Senj"
+                }
+            ],
+            "Sjedište": "Gospić",
+            "Stanovnici": 42748,
+            "Broj naselja": 255,
+            "Broj općina": 8,
+            "Pozivni broj": "053",
+            "Dan županije": "23. svibnja",
+            "Ime županije": "Ličko-senjska županija",
+            "Površina u km2": 5353
+        },
+        {
+            "Župan": "Matija Posavec",
+            "Gradovi": [
+                {
+                    "Ime grada": "Čakovec"
+                },
+                {
+                    "Ime grada": "Mursko Središće"
+                },
+                {
+                    "Ime grada": "Prelog"
+                }
+            ],
+            "Sjedište": "Čakovec",
+            "Stanovnici": 105250,
+            "Broj naselja": 131,
+            "Broj općina": 22,
+            "Pozivni broj": "040",
+            "Dan županije": "30. travnja",
+            "Ime županije": "Međimurska županija",
+            "Površina u km2": 729
+        },
+        {
+            "Župan": "Nataša Tramišak",
+            "Gradovi": [
+                {
+                    "Ime grada": "Beli Manastir"
+                },
+                {
+                    "Ime grada": "Belišće"
+                },
+                {
+                    "Ime grada": "Donji Miholjac"
+                },
+                {
+                    "Ime grada": "Đakovo"
+                },
+                {
+                    "Ime grada": "Našice"
+                },
+                {
+                    "Ime grada": "Osijek"
+                },
+                {
+                    "Ime grada": "Valpovo"
+                }
+            ],
+            "Sjedište": "Osijek",
+            "Stanovnici": 258026,
+            "Broj naselja": 263,
+            "Broj općina": 35,
+            "Pozivni broj": "031",
+            "Dan županije": "2. lipnja",
+            "Ime županije": "Osječko-baranjska županija",
+            "Površina u km2": 4155
+        },
+        {
+            "Župan": "Antonija Jozić",
+            "Gradovi": [
+                {
+                    "Ime grada": "Kutjevo"
+                },
+                {
+                    "Ime grada": "Lipik"
+                },
+                {
+                    "Ime grada": "Pakrac"
+                },
+                {
+                    "Ime grada": "Pleternica"
+                },
+                {
+                    "Ime grada": "Požega"
+                }
+            ],
+            "Sjedište": "Požega",
+            "Stanovnici": 64084,
+            "Broj naselja": 277,
+            "Broj općina": 5,
+            "Pozivni broj": "034",
+            "Dan županije": "14. travnja",
+            "Ime županije": "Požeško-slavonska županija",
+            "Površina u km2": 1823
+        },
+        {
+            "Župan": "Ivica Lukanović",
+            "Gradovi": [
+                {
+                    "Ime grada": "Bakar"
+                },
+                {
+                    "Ime grada": "Cres"
+                },
+                {
+                    "Ime grada": "Crikvenica"
+                },
+                {
+                    "Ime grada": "Čabar"
+                },
+                {
+                    "Ime grada": "Delnice"
+                },
+                {
+                    "Ime grada": "Kastav"
+                },
+                {
+                    "Ime grada": "Kraljevica"
+                },
+                {
+                    "Ime grada": "Krk"
+                },
+                {
+                    "Ime grada": "Mali Lošinj"
+                },
+                {
+                    "Ime grada": "Novi Vinodolski"
+                },
+                {
+                    "Ime grada": "Opatija"
+                },
+                {
+                    "Ime grada": "Rab"
+                },
+                {
+                    "Ime grada": "Rijeka"
+                },
+                {
+                    "Ime grada": "Vrbovsko"
+                }
+            ],
+            "Sjedište": "Rijeka",
+            "Stanovnici": 265419,
+            "Broj naselja": 510,
+            "Broj općina": 22,
+            "Pozivni broj": "051",
+            "Dan županije": "14. travnja",
+            "Ime županije": "Primorsko-goranska županija",
+            "Površina u km2": 3588
+        },
+        {
+            "Župan": "Ivan Celjak",
+            "Gradovi": [
+                {
+                    "Ime grada": "Glina"
+                },
+                {
+                    "Ime grada": "Hrvatska Kostajnica"
+                },
+                {
+                    "Ime grada": "Kutina"
+                },
+                {
+                    "Ime grada": "Novska"
+                },
+                {
+                    "Ime grada": "Petrinja"
+                },
+                {
+                    "Ime grada": "Popovača"
+                },
+                {
+                    "Ime grada": "Sisak"
+                }
+            ],
+            "Sjedište": "Sisak",
+            "Stanovnici": 139603,
+            "Broj naselja": 456,
+            "Broj općina": 12,
+            "Pozivni broj": "044",
+            "Dan županije": "11. lipnja",
+            "Ime županije": "Sisačko-moslavačka županija",
+            "Površina u km2": 4468
+        },
+        {
+            "Župan": "Blaženko Boban",
+            "Gradovi": [
+                {
+                    "Ime grada": "Hvar"
+                },
+                {
+                    "Ime grada": "Imotski"
+                },
+                {
+                    "Ime grada": "Kaštela"
+                },
+                {
+                    "Ime grada": "Komiža"
+                },
+                {
+                    "Ime grada": "Makarska"
+                },
+                {
+                    "Ime grada": "Omiš"
+                },
+                {
+                    "Ime grada": "Sinj"
+                },
+                {
+                    "Ime grada": "Solin"
+                },
+                {
+                    "Ime grada": "Split"
+                },
+                {
+                    "Ime grada": "Stari Grad"
+                },
+                {
+                    "Ime grada": "Supetar"
+                },
+                {
+                    "Ime grada": "Trilj"
+                },
+                {
+                    "Ime grada": "Trogir"
+                },
+                {
+                    "Ime grada": "Vis"
+                },
+                {
+                    "Ime grada": "Vrgorac"
+                },
+                {
+                    "Ime grada": "Vrlika"
+                }
+            ],
+            "Sjedište": "Split",
+            "Stanovnici": 423407,
+            "Broj naselja": 368,
+            "Broj općina": 39,
+            "Pozivni broj": "021",
+            "Dan županije": "30. rujna",
+            "Ime županije": "Splitsko-dalmatinska županija",
+            "Površina u km2": 14045
+        },
+        {
+            "Župan": "Paško Rakić",
+            "Gradovi": [
+                {
+                    "Ime grada": "Drniš"
+                },
+                {
+                    "Ime grada": "Knin"
+                },
+                {
+                    "Ime grada": "Skradin"
+                },
+                {
+                    "Ime grada": "Šibenik"
+                },
+                {
+                    "Ime grada": "Vodice"
+                }
+            ],
+            "Sjedište": "Šibenik",
+            "Stanovnici": 96381,
+            "Broj naselja": 199,
+            "Broj općina": 15,
+            "Pozivni broj": "022",
+            "Dan županije": "17. svibnja",
+            "Ime županije": "Šibensko-kninska županija",
+            "Površina u km2": 2994
+        },
+        {
+            "Župan": "Anđelko Stričak",
+            "Gradovi": [
+                {
+                    "Ime grada": "Ivanec"
+                },
+                {
+                    "Ime grada": "Lepoglava"
+                },
+                {
+                    "Ime grada": "Ludbreg"
+                },
+                {
+                    "Ime grada": "Novi Marof"
+                },
+                {
+                    "Ime grada": "Varaždin"
+                },
+                {
+                    "Ime grada": "Varaždinske Toplice"
+                }
+            ],
+            "Sjedište": "Varaždin",
+            "Stanovnici": 159487,
+            "Broj naselja": 302,
+            "Broj općina": 22,
+            "Pozivni broj": "042",
+            "Dan županije": "8. rujna",
+            "Ime županije": "Varaždinska županija",
+            "Površina u km2": 1262
+        },
+        {
+            "Župan": "Igor Andrović",
+            "Gradovi": [
+                {
+                    "Ime grada": "Orahovica"
+                },
+                {
+                    "Ime grada": "Slatina"
+                },
+                {
+                    "Ime grada": "Virovitica"
+                }
+            ],
+            "Sjedište": "Virovitica",
+            "Stanovnici": 70368,
+            "Broj naselja": 188,
+            "Broj općina": 13,
+            "Pozivni broj": "033",
+            "Dan županije": "5. rujna",
+            "Ime županije": "Virovitičko-podravska županija",
+            "Površina u km2": 2024
+        },
+        {
+            "Župan": "Ivan Bosančić",
+            "Gradovi": [
+                {
+                    "Ime grada": "Ilok"
+                },
+                {
+                    "Ime grada": "Otok"
+                },
+                {
+                    "Ime grada": "Vinkovci"
+                },
+                {
+                    "Ime grada": "Vukovar"
+                },
+                {
+                    "Ime grada": "Županja"
+                }
+            ],
+            "Sjedište": "Vukovar",
+            "Stanovnici": 143113,
+            "Broj naselja": 85,
+            "Broj općina": 26,
+            "Pozivni broj": "032",
+            "Dan županije": "11. studenog",
+            "Ime županije": "Vukovarsko-srijemska županija",
+            "Površina u km2": 2454
+        },
+        {
+            "Župan": "Josip Bilaver",
+            "Gradovi": [
+                {
+                    "Ime grada": "Benkovac"
+                },
+                {
+                    "Ime grada": "Biograd na Moru"
+                },
+                {
+                    "Ime grada": "Nin"
+                },
+                {
+                    "Ime grada": "Obrovac"
+                },
+                {
+                    "Ime grada": "Pag"
+                },
+                {
+                    "Ime grada": "Zadar"
+                }
+            ],
+            "Sjedište": "Zadar",
+            "Stanovnici": 159766,
+            "Broj naselja": 229,
+            "Broj općina": 28,
+            "Pozivni broj": "023",
+            "Dan županije": "15. travnja",
+            "Ime županije": "Zadarska županija",
+            "Površina u km2": 3646
+        },
+        {
+            "Župan": "Stjepan Kožić",
+            "Gradovi": [
+                {
+                    "Ime grada": "Dugo Selo"
+                },
+                {
+                    "Ime grada": "Ivanić-Grad"
+                },
+                {
+                    "Ime grada": "Jastrebarsko"
+                },
+                {
+                    "Ime grada": "Samobor"
+                },
+                {
+                    "Ime grada": "Sveta Nedelja"
+                },
+                {
+                    "Ime grada": "Sveti Ivan Zelina"
+                },
+                {
+                    "Ime grada": "Velika Gorica"
+                },
+                {
+                    "Ime grada": "Vrbovec"
+                },
+                {
+                    "Ime grada": "Zaprešić"
+                }
+            ],
+            "Sjedište": "Grad Zagreb",
+            "Stanovnici": 299985,
+            "Broj naselja": 694,
+            "Broj općina": 25,
+            "Pozivni broj": "01 ",
+            "Dan županije": "17. srpnja",
+            "Ime županije": "Zagrebačka županija",
+            "Površina u km2": 3060
+        }
+    ]
+}
