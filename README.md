@@ -27,6 +27,6 @@ Ovaj repozitorij sadrži skup podataka o županijama Republike Hrvatske. Za svak
 
 **Kreirano:** 24. 10. 2025.
 
-**Osvježavanje podataka:** Podatci se neće osvježavati
+**Izvori:** Wikipedia stranice i službene stranica županija Republike Hrvatske
 
 **Licencija:** Creative Commons Zero v1.0 Universal
