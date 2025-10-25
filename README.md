@@ -1,4 +1,4 @@
-# Repozitorij županije Republike Hrvatske
+# Repozitorij županija Republike Hrvatske
 Ovaj repozitorij sadrži skup podataka o županijama Republike Hrvatske. Za svaku županiju navedeno je njeno ime, grad koji je njeno središte, župan(koji je bio za vrijeme kreiranja ovog skupa podataka), površina(u kilometrima kvadratnim), broj stanovnika, pozivni broj, datum kada se obilježava dan županije, popis svih gradova, broj općina i broj naselja. Taj skup dostupan je u CSV ili JSON formatu. Također dostupan je dump baze podataka napravljene u PostgreSQL-u.
 
 **Naslov:** Županije u Republici Hrvatskoj
