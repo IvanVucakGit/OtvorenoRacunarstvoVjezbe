@@ -29,4 +29,4 @@ Ovaj repozitorij sadrži skup podataka o županijama Republike Hrvatske. Za svak
 
 **Osvježavanje podataka:** Podatci se neće osvježavati
 
-**Licencija:**
+**Licencija:** Creative Commons Zero v1.0 Universal
